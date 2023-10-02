@@ -8,12 +8,12 @@
 	margin-bottom: 30px;
 }
 
-.article__text-block {
-	margin-bottom: 50px;
+.article__text:first-of-type {
+	margin-bottom: 30px;
 }
 
-.article__text:not(:last-child) {
-	margin-bottom: 30px;
+.article__text:last-of-type {
+	margin-bottom: 50px;
 }
 
 .article__body {
